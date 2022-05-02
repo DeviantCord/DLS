@@ -1,2 +1,2 @@
-###DLS###
-This is an early build of DLS it has not been finalized for V4's release
+## DLS ##
+Internal Web API for DeviantCord and DeviantDBS powered by Flask. It determines which artists are handled by which Deviant-DBS Node, as well as introducing the needed functionality for group artists 
