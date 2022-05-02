@@ -99,3 +99,17 @@ def determineNewDeviations(data1, id_list):
         if new_deviation_found:
             new_deviations = new_deviations + 1
     return new_deviations
+
+def getUserInfo(data):
+    # Data must be a dictionary
+    user_info = {}
+    user_info["username"] = data["user"]["userid"].upper()
+    user_info["user_pic"] = data["user"]["usericon"]
+    return user_info
+
+def getDLSUserInfo(data):
+    # Data must be a dictionary
+    user_info = {}
+    user_info["username"] = data["user"]["username"]
+    user_info["user_pic"] = data["user"]["usericon"]
+    return user_info
