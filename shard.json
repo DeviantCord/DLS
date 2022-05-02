@@ -1,0 +1,18 @@
+{
+    "categories": [
+        "sources",
+        "listeners"
+    ],
+    "listeners": {
+        "listeners-1": 0,
+        "listeners-2": 0,
+        "listeners-3": 0,
+        "listeners-max": 3
+    },
+    "sources": {
+        "sources-1": 0,
+        "sources-2": 0,
+        "sources-3": 0,
+        "sources-max": 3
+    }
+}

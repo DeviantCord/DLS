@@ -1,2 +1,2 @@
-# DLS
-Deviant Logic Service Web API, powered by Flask
+###DLS###
+This is an early build of DLS it has not been finalized for V4's release
